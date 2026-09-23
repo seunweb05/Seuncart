@@ -97,7 +97,6 @@ I'm comfortable working on:
 - ⚡ Performance optimization
 - 🚀 Web application deployment
 
----
 
 ## 🧠 Development Approach
 
@@ -125,11 +124,6 @@ Security
 Performance
       ↓
 Deployment
-
-
-
-
-
 
 I aim to build applications that are **usable, maintainable, responsive and connected to real business workflows.**
 
