@@ -126,6 +126,11 @@ Performance
       ↓
 Deployment
 
+
+
+
+
+
 I aim to build applications that are **usable, maintainable, responsive and connected to real business workflows.**
 
 ---
