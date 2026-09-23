@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Seuncart app icon">
+  <rect width="192" height="192" fill="#fff"/>
+  <g transform="translate(36 31)">
+    <path d="M20 28 9 11H0" fill="none" stroke="#000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 28h100l-11 72H39z" fill="none" stroke="#0066FF" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M43 55h53c15 0 22 7 22 18s-7 18-22 18H58c-13 0-20 6-20 15s7 15 20 15h38" fill="none" stroke="#0066FF" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="44" cy="117" r="8" fill="#000"/><circle cx="107" cy="117" r="8" fill="#000"/>
+  </g>
+</svg>

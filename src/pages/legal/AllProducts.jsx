@@ -1,0 +1,2 @@
+import { Link } from "react-router-dom";
+export default function AllProducts() { return <section className="section wrap legalPage"><h1>All Products</h1><div className="legalContent"><p>Explore the complete SEUNCART collection of premium phones, laptops, tablets, audio products, wearables and useful accessories.</p><p>Use the shop filters to compare brands, categories, memory, storage and price. Product availability and pricing are updated as the live catalogue changes.</p><Link className="primary" to="/shop">Browse the catalogue</Link></div></section>; }
