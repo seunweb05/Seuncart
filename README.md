@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SEUNCART 4.0 — Portfolio-Ready E-Commerce Platform
 
 SEUNCART is an independent full-stack e-commerce portfolio project built to demonstrate production-minded React development, cloud data services, media optimization, payment integration and admin operations.
@@ -64,3 +65,6 @@ See:
 ## Supabase + Paystack
 
 This build is wired to the Supabase project `wdgbfuxhxrtbfymkgsqj`. The frontend calls the Paystack Edge Function at `https://wdgbfuxhxrtbfymkgsqj.supabase.co/functions/v1/dynamic-service`. Only public configuration is shipped to the browser; the Paystack secret remains in Supabase Edge Function secrets.
+=======
+# Seuncart
+>>>>>>> e35a410bd5a2c7a0441effa1c11d0b647a0623e9
