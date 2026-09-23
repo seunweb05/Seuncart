@@ -2,7 +2,7 @@
 
 SEUNCART is an independent full-stack e-commerce portfolio project built to demonstrate production-minded React development, cloud data services, media optimization, payment integration and admin operations.
 
-**Live Demo:** `https://your-live-url.vercel.app`  
+**Live Demo:**  https://seuncart1.web.app 
 **Stack:** React 19 + Vite, Firebase (Auth, Firestore, Storage, Hosting), Cloudinary, Paystack, Supabase Edge Functions
 
 ### Stack
