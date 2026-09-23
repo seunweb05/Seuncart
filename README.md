@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# SEUNCART 4.0 — Portfolio-Ready E-Commerce Platform
+
+# SEUNCART Portfolio Ready E-Commerce Platform
 
 SEUNCART is an independent full-stack e-commerce portfolio project built to demonstrate production-minded React development, cloud data services, media optimization, payment integration and admin operations.
 
